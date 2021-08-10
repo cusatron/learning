@@ -1,0 +1,19 @@
+{
+  "name": "node_learning",
+  "version": "1.0.0",
+  "description": "mastering",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cusatron/learning.git"
+  },
+  "author": "K Ronak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cusatron/learning/issues"
+  },
+  "homepage": "https://github.com/cusatron/learning#readme"
+}
